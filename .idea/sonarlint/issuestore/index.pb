@@ -1,0 +1,11 @@
+
+<
+interface.go,7/3/731af56d00b9cfb85ed1c7eb7f89b9b3f64d5149
+7
+type.go,3/6/36cc923a62aa74f188b3fe792ade6fe89a9f2890
+6
+go.mod,c/4/c47645c391ad0571c40779079363c9d48412e18b
+A
+interface_test.go,5/0/50564aad9156198df96084e69e3d43403fa3bdac
+7
+http.go,7/4/74fb01867be5c78c0ac7baac471afbc8b2151d90
